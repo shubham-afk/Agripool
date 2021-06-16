@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936551597692",
+    "firebase_url": "https://uber-ee928.firebaseio.com",
+    "project_id": "uber-ee928",
+    "storage_bucket": "uber-ee928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936551597692:android:f3a69d87824e821ff6abf9",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936551597692-c5jfcp0tvv5k48vs4r4ic8h105ted2ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.uber",
+            "certificate_hash": "e67d12e06f952605ef499ec788d3fa93dd4a6d56"
+          }
+        },
+        {
+          "client_id": "936551597692-16dmvviu76kgeu73fn196g2gi9mkgmov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAA8CnFEl9-sk80sItDNTWuYYI-K444_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936551597692-16dmvviu76kgeu73fn196g2gi9mkgmov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
